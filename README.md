@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Lily Leena Mondal</h1>
+<h1 align="center">Hi 👋, I'm Leena </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leena-7&label=Profile%20views&color=0e75b6&style=flat" alt="leena-7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leena-7&theme=nord" alt="leena-7" /></a> </p>
